@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: University of Pittsburgh School of Law, Cathedral of Learning Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Law in Cathy, 1936 to 1976
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: This collection consists of photographic material of students, faculty, and staff at the University of Pittsburgh School of Law from its 40-year tenure in the Cathedral of Learning.
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Rachel Rossi
 
 ##########
 # COLLECTION SETTINGS
